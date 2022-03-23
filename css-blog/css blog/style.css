@@ -1,0 +1,36 @@
+.main{
+    margin: 20px;
+    border: 4px solid rgb(156, 156, 235);
+    width: auto;
+    height: 300px;
+    background-color: rgb(172, 165, 165);
+    color: white;
+}
+.image img{
+    position: absolute;
+    border-radius: 25px;
+    float: left;
+    width: 140px;
+    height: 140px;
+    top: 100px;
+    left: 55px;
+    background-color: white;
+}
+.container{
+    position: relative;
+    width: auto;
+}
+.title{
+    position: absolute;
+    top: 50px;
+    left: 220px;
+    font-size: 2em;
+}
+.description{
+    position: absolute;
+    top: 100px;
+    left: 220px;
+    text-align: justify;
+    padding-right: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
